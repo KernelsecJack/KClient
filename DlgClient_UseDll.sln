@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DlgClient_UseDll", "DlgClient_UseDll\DlgClient_UseDll.vcxproj", "{05FAD66A-D6AB-49F8-A38C-E25B21DDCEDF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PolarSslDll", "PolarSslDll\PolarSslDll.vcxproj", "{E8156373-166E-4495-8C23-B1EC19941E5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05FAD66A-D6AB-49F8-A38C-E25B21DDCEDF}.Debug|x64.ActiveCfg = Debug|x64
+		{05FAD66A-D6AB-49F8-A38C-E25B21DDCEDF}.Debug|x64.Build.0 = Debug|x64
+		{05FAD66A-D6AB-49F8-A38C-E25B21DDCEDF}.Debug|x86.ActiveCfg = Debug|Win32
+		{05FAD66A-D6AB-49F8-A38C-E25B21DDCEDF}.Debug|x86.Build.0 = Debug|Win32
+		{05FAD66A-D6AB-49F8-A38C-E25B21DDCEDF}.Release|x64.ActiveCfg = Release|x64
+		{05FAD66A-D6AB-49F8-A38C-E25B21DDCEDF}.Release|x64.Build.0 = Release|x64
+		{05FAD66A-D6AB-49F8-A38C-E25B21DDCEDF}.Release|x86.ActiveCfg = Release|Win32
+		{05FAD66A-D6AB-49F8-A38C-E25B21DDCEDF}.Release|x86.Build.0 = Release|Win32
+		{E8156373-166E-4495-8C23-B1EC19941E5D}.Debug|x64.ActiveCfg = Debug|x64
+		{E8156373-166E-4495-8C23-B1EC19941E5D}.Debug|x64.Build.0 = Debug|x64
+		{E8156373-166E-4495-8C23-B1EC19941E5D}.Debug|x86.ActiveCfg = Debug|Win32
+		{E8156373-166E-4495-8C23-B1EC19941E5D}.Debug|x86.Build.0 = Debug|Win32
+		{E8156373-166E-4495-8C23-B1EC19941E5D}.Release|x64.ActiveCfg = Release|x64
+		{E8156373-166E-4495-8C23-B1EC19941E5D}.Release|x64.Build.0 = Release|x64
+		{E8156373-166E-4495-8C23-B1EC19941E5D}.Release|x86.ActiveCfg = Release|Win32
+		{E8156373-166E-4495-8C23-B1EC19941E5D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
